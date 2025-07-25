@@ -1,0 +1,8 @@
+http://localhost:3000/ - viewing project
+
+npm start - starting tailwind
+/backend - (open venv first) py manage.py runserver
+
+frontend/src - is where we should create .jsx files (frontend)
+
+/frontend - npm install
